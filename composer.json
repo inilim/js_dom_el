@@ -1,0 +1,13 @@
+{
+    "name": "inilim/js_dom_el",
+    "description": "js_dom_el",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "inilim"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
